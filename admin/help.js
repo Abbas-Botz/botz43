@@ -49,6 +49,7 @@ var cr = `╭━─━•[ *THX-TO* ]⊱
 ┃•  *RIMURUBOTZ*
 ┃•  *LOLI KILLERS*
 ┃•  *LORD R1YNZ*
+┃•  *LORD ABBAS*
 ╰━─━─━─━─━─━─━─•`
 return help1
 }
